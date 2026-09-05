@@ -1,3 +1,0 @@
-[<SLASH>home<SLASH>whoami<SLASH>music_player]
-importPaths="/home/whoami/music_player/build:/home/whoami/music_player/build/Lyra:/usr/lib/qt6/qml"
-resourceFiles="/home/whoami/music_player/build/.qt/rcc/qmake_Lyra.qrc:/home/whoami/music_player/build/.qt/rcc/Lyra_raw_qml_0.qrc"
