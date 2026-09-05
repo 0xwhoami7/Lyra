@@ -1,0 +1,5 @@
+--resource
+/home/whoami/music_player/build/.qt/rcc/qmake_Lyra.qrc
+--resource
+/home/whoami/music_player/build/.qt/rcc/Lyra_raw_qml_0.qrc
+/qt/qml/Lyra/Main.qml

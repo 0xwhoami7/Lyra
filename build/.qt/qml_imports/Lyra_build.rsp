@@ -1,0 +1,14 @@
+-rootPath
+/home/whoami/music_player
+-cmake-output
+-output-file
+/home/whoami/music_player/build/.qt/qml_imports/Lyra_build.cmake
+-importPath
+/home/whoami/music_player/build
+-importPath
+/home/whoami/music_player/build/Lyra
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/whoami/music_player/build/.qt/rcc/qmake_Lyra.qrc
+/home/whoami/music_player/build/.qt/rcc/Lyra_raw_qml_0.qrc

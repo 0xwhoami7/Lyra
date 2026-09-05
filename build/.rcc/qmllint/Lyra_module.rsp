@@ -1,0 +1,14 @@
+-I
+/home/whoami/music_player/build
+-I
+/home/whoami/music_player/build/Lyra
+-I
+/home/whoami/music_player/build
+-I
+/usr/lib/qt6/qml
+--resource
+/home/whoami/music_player/build/.qt/rcc/qmake_Lyra.qrc
+--resource
+/home/whoami/music_player/build/.qt/rcc/Lyra_raw_qml_0.qrc
+--module
+Lyra
