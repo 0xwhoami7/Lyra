@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qt/qml/Lyra">/home/whoami/music_player/build/Lyra</file>
-
-  </qresource>
-</RCC>

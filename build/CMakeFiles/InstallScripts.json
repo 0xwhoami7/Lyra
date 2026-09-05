@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/whoami/music_player/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
